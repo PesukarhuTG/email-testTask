@@ -8,4 +8,4 @@ Additionally: the template must be correctly displayed for the desktop version a
 ***
 Use this link to preview email template https://pesukarhutg.github.io/email-testTask/
 
-![Preview](https://github.com/PesukarhuTG/email-testTask/blob/master/assets/preview.png)
+[![Preview](https://github.com/PesukarhuTG/email-testTask/blob/master/assets/preview.png)](https://pesukarhutg.github.io/email-testTask/)
